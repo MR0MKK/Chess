@@ -129,22 +129,22 @@ Library: lib_burst_generated
 --compilation-defines=ENABLE_SPRITESHAPE_BURST
 --linker-options=PdbAltPath="Chess_Data/Plugins/x86_64"
 --generate-link-xml=Temp\burst.link.xml
---output=D:\DESKTOP\Hoc Tap Tin Hoc\ChessBuild\CHESS\Temp\StagingArea\Data\Plugins\x86_64\lib_burst_generated
---root-assembly=D:\DESKTOP\Hoc Tap Tin Hoc\ChessBuild\CHESS\Temp\StagingArea\Data\Managed\PhotonUnityNetworking.Utilities.dll
---root-assembly=D:\DESKTOP\Hoc Tap Tin Hoc\ChessBuild\CHESS\Temp\StagingArea\Data\Managed\UnityEngine.UI.dll
---root-assembly=D:\DESKTOP\Hoc Tap Tin Hoc\ChessBuild\CHESS\Temp\StagingArea\Data\Managed\Unity.Mathematics.dll
---root-assembly=D:\DESKTOP\Hoc Tap Tin Hoc\ChessBuild\CHESS\Temp\StagingArea\Data\Managed\Unity.Timeline.dll
---root-assembly=D:\DESKTOP\Hoc Tap Tin Hoc\ChessBuild\CHESS\Temp\StagingArea\Data\Managed\PhotonUnityNetworking.dll
---root-assembly=D:\DESKTOP\Hoc Tap Tin Hoc\ChessBuild\CHESS\Temp\StagingArea\Data\Managed\Unity.Burst.dll
---root-assembly=D:\DESKTOP\Hoc Tap Tin Hoc\ChessBuild\CHESS\Temp\StagingArea\Data\Managed\Unity.2D.Animation.Runtime.dll
---root-assembly=D:\DESKTOP\Hoc Tap Tin Hoc\ChessBuild\CHESS\Temp\StagingArea\Data\Managed\Unity.2D.IK.Runtime.dll
---root-assembly=D:\DESKTOP\Hoc Tap Tin Hoc\ChessBuild\CHESS\Temp\StagingArea\Data\Managed\Assembly-CSharp.dll
---root-assembly=D:\DESKTOP\Hoc Tap Tin Hoc\ChessBuild\CHESS\Temp\StagingArea\Data\Managed\PhotonRealtime.dll
---root-assembly=D:\DESKTOP\Hoc Tap Tin Hoc\ChessBuild\CHESS\Temp\StagingArea\Data\Managed\Unity.2D.SpriteShape.Runtime.dll
---root-assembly=D:\DESKTOP\Hoc Tap Tin Hoc\ChessBuild\CHESS\Temp\StagingArea\Data\Managed\Unity.2D.Common.Runtime.dll
---root-assembly=D:\DESKTOP\Hoc Tap Tin Hoc\ChessBuild\CHESS\Temp\StagingArea\Data\Managed\Unity.2D.PixelPerfect.dll
---root-assembly=D:\DESKTOP\Hoc Tap Tin Hoc\ChessBuild\CHESS\Temp\StagingArea\Data\Managed\Unity.InternalAPIEngineBridge.001.dll
---assembly-folder=D:\DESKTOP\Hoc Tap Tin Hoc\ChessBuild\CHESS\Temp\StagingArea\Data\Managed\
+--output=D:\DESKTOP\Hoc Tap Tin Hoc\ChessBuild\Temp\StagingArea\Data\Plugins\x86_64\lib_burst_generated
+--root-assembly=D:\DESKTOP\Hoc Tap Tin Hoc\ChessBuild\Temp\StagingArea\Data\Managed\PhotonUnityNetworking.Utilities.dll
+--root-assembly=D:\DESKTOP\Hoc Tap Tin Hoc\ChessBuild\Temp\StagingArea\Data\Managed\UnityEngine.UI.dll
+--root-assembly=D:\DESKTOP\Hoc Tap Tin Hoc\ChessBuild\Temp\StagingArea\Data\Managed\Unity.Mathematics.dll
+--root-assembly=D:\DESKTOP\Hoc Tap Tin Hoc\ChessBuild\Temp\StagingArea\Data\Managed\Unity.Timeline.dll
+--root-assembly=D:\DESKTOP\Hoc Tap Tin Hoc\ChessBuild\Temp\StagingArea\Data\Managed\PhotonUnityNetworking.dll
+--root-assembly=D:\DESKTOP\Hoc Tap Tin Hoc\ChessBuild\Temp\StagingArea\Data\Managed\Unity.Burst.dll
+--root-assembly=D:\DESKTOP\Hoc Tap Tin Hoc\ChessBuild\Temp\StagingArea\Data\Managed\Unity.2D.Animation.Runtime.dll
+--root-assembly=D:\DESKTOP\Hoc Tap Tin Hoc\ChessBuild\Temp\StagingArea\Data\Managed\Unity.2D.IK.Runtime.dll
+--root-assembly=D:\DESKTOP\Hoc Tap Tin Hoc\ChessBuild\Temp\StagingArea\Data\Managed\Assembly-CSharp.dll
+--root-assembly=D:\DESKTOP\Hoc Tap Tin Hoc\ChessBuild\Temp\StagingArea\Data\Managed\PhotonRealtime.dll
+--root-assembly=D:\DESKTOP\Hoc Tap Tin Hoc\ChessBuild\Temp\StagingArea\Data\Managed\Unity.2D.SpriteShape.Runtime.dll
+--root-assembly=D:\DESKTOP\Hoc Tap Tin Hoc\ChessBuild\Temp\StagingArea\Data\Managed\Unity.2D.Common.Runtime.dll
+--root-assembly=D:\DESKTOP\Hoc Tap Tin Hoc\ChessBuild\Temp\StagingArea\Data\Managed\Unity.2D.PixelPerfect.dll
+--root-assembly=D:\DESKTOP\Hoc Tap Tin Hoc\ChessBuild\Temp\StagingArea\Data\Managed\Unity.InternalAPIEngineBridge.001.dll
+--assembly-folder=D:\DESKTOP\Hoc Tap Tin Hoc\ChessBuild\Temp\StagingArea\Data\Managed\
 --pdb-search-paths=Temp/ManagedSymbols/
 --method=Unity.Burst.BurstCompiler+BurstCompilerHelper, Unity.Burst, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::IsBurstEnabled()--8c2be93e18276203cbd918daa2748a10
 --method=Unity.Burst.Intrinsics.X86, Unity.Burst, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::DoSetCSRTrampoline(System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)--da352d92cabf024fc9986011d52a4537
@@ -281,22 +281,22 @@ Library: lib_burst_generated
 --compilation-defines=ENABLE_SPRITESHAPE_BURST
 --linker-options=PdbAltPath="Chess_Data/Plugins/x86_64"
 --generate-link-xml=Temp\burst.link.xml
---output=D:\DESKTOP\Hoc Tap Tin Hoc\ChessBuild\CHESS\Temp\StagingArea\Data\Plugins\x86_64\lib_burst_generated
---root-assembly=D:\DESKTOP\Hoc Tap Tin Hoc\ChessBuild\CHESS\Temp\StagingArea\Data\Managed\PhotonUnityNetworking.Utilities.dll
---root-assembly=D:\DESKTOP\Hoc Tap Tin Hoc\ChessBuild\CHESS\Temp\StagingArea\Data\Managed\UnityEngine.UI.dll
---root-assembly=D:\DESKTOP\Hoc Tap Tin Hoc\ChessBuild\CHESS\Temp\StagingArea\Data\Managed\Unity.Mathematics.dll
---root-assembly=D:\DESKTOP\Hoc Tap Tin Hoc\ChessBuild\CHESS\Temp\StagingArea\Data\Managed\Unity.Timeline.dll
---root-assembly=D:\DESKTOP\Hoc Tap Tin Hoc\ChessBuild\CHESS\Temp\StagingArea\Data\Managed\PhotonUnityNetworking.dll
---root-assembly=D:\DESKTOP\Hoc Tap Tin Hoc\ChessBuild\CHESS\Temp\StagingArea\Data\Managed\Unity.Burst.dll
---root-assembly=D:\DESKTOP\Hoc Tap Tin Hoc\ChessBuild\CHESS\Temp\StagingArea\Data\Managed\Unity.2D.Animation.Runtime.dll
---root-assembly=D:\DESKTOP\Hoc Tap Tin Hoc\ChessBuild\CHESS\Temp\StagingArea\Data\Managed\Unity.2D.IK.Runtime.dll
---root-assembly=D:\DESKTOP\Hoc Tap Tin Hoc\ChessBuild\CHESS\Temp\StagingArea\Data\Managed\Assembly-CSharp.dll
---root-assembly=D:\DESKTOP\Hoc Tap Tin Hoc\ChessBuild\CHESS\Temp\StagingArea\Data\Managed\PhotonRealtime.dll
---root-assembly=D:\DESKTOP\Hoc Tap Tin Hoc\ChessBuild\CHESS\Temp\StagingArea\Data\Managed\Unity.2D.SpriteShape.Runtime.dll
---root-assembly=D:\DESKTOP\Hoc Tap Tin Hoc\ChessBuild\CHESS\Temp\StagingArea\Data\Managed\Unity.2D.Common.Runtime.dll
---root-assembly=D:\DESKTOP\Hoc Tap Tin Hoc\ChessBuild\CHESS\Temp\StagingArea\Data\Managed\Unity.2D.PixelPerfect.dll
---root-assembly=D:\DESKTOP\Hoc Tap Tin Hoc\ChessBuild\CHESS\Temp\StagingArea\Data\Managed\Unity.InternalAPIEngineBridge.001.dll
---assembly-folder=D:\DESKTOP\Hoc Tap Tin Hoc\ChessBuild\CHESS\Temp\StagingArea\Data\Managed\
+--output=D:\DESKTOP\Hoc Tap Tin Hoc\ChessBuild\Temp\StagingArea\Data\Plugins\x86_64\lib_burst_generated
+--root-assembly=D:\DESKTOP\Hoc Tap Tin Hoc\ChessBuild\Temp\StagingArea\Data\Managed\PhotonUnityNetworking.Utilities.dll
+--root-assembly=D:\DESKTOP\Hoc Tap Tin Hoc\ChessBuild\Temp\StagingArea\Data\Managed\UnityEngine.UI.dll
+--root-assembly=D:\DESKTOP\Hoc Tap Tin Hoc\ChessBuild\Temp\StagingArea\Data\Managed\Unity.Mathematics.dll
+--root-assembly=D:\DESKTOP\Hoc Tap Tin Hoc\ChessBuild\Temp\StagingArea\Data\Managed\Unity.Timeline.dll
+--root-assembly=D:\DESKTOP\Hoc Tap Tin Hoc\ChessBuild\Temp\StagingArea\Data\Managed\PhotonUnityNetworking.dll
+--root-assembly=D:\DESKTOP\Hoc Tap Tin Hoc\ChessBuild\Temp\StagingArea\Data\Managed\Unity.Burst.dll
+--root-assembly=D:\DESKTOP\Hoc Tap Tin Hoc\ChessBuild\Temp\StagingArea\Data\Managed\Unity.2D.Animation.Runtime.dll
+--root-assembly=D:\DESKTOP\Hoc Tap Tin Hoc\ChessBuild\Temp\StagingArea\Data\Managed\Unity.2D.IK.Runtime.dll
+--root-assembly=D:\DESKTOP\Hoc Tap Tin Hoc\ChessBuild\Temp\StagingArea\Data\Managed\Assembly-CSharp.dll
+--root-assembly=D:\DESKTOP\Hoc Tap Tin Hoc\ChessBuild\Temp\StagingArea\Data\Managed\PhotonRealtime.dll
+--root-assembly=D:\DESKTOP\Hoc Tap Tin Hoc\ChessBuild\Temp\StagingArea\Data\Managed\Unity.2D.SpriteShape.Runtime.dll
+--root-assembly=D:\DESKTOP\Hoc Tap Tin Hoc\ChessBuild\Temp\StagingArea\Data\Managed\Unity.2D.Common.Runtime.dll
+--root-assembly=D:\DESKTOP\Hoc Tap Tin Hoc\ChessBuild\Temp\StagingArea\Data\Managed\Unity.2D.PixelPerfect.dll
+--root-assembly=D:\DESKTOP\Hoc Tap Tin Hoc\ChessBuild\Temp\StagingArea\Data\Managed\Unity.InternalAPIEngineBridge.001.dll
+--assembly-folder=D:\DESKTOP\Hoc Tap Tin Hoc\ChessBuild\Temp\StagingArea\Data\Managed\
 --pdb-search-paths=Temp/ManagedSymbols/
 --method=Unity.Burst.BurstCompiler+BurstCompilerHelper, Unity.Burst, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::IsBurstEnabled()--8c2be93e18276203cbd918daa2748a10
 --method=Unity.Burst.Intrinsics.X86, Unity.Burst, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::DoSetCSRTrampoline(System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)--da352d92cabf024fc9986011d52a4537
