@@ -10,6 +10,8 @@
              
         PLay: Single, LAN, Multiplayer
         
+        Save Game: 3 slots,
+        
         Option: Resolution, Language, Region
         
         About: Facebook, Github
