@@ -10,7 +10,7 @@
              
         PLay: Single, LAN, Multiplayer
         
-        Save Game: 3 slots,
+        Save Game: 1 Auto Save + 3 Slots Save
         
         Option: Resolution, Language, Region
         
